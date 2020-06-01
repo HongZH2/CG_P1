@@ -12,8 +12,7 @@ the Project 1 code, pictures,video and Execute file.
 
 
 ## Visualization
-
-width="720" height="480" src="http://player.youku.com/embed/XMzcxNzA2OTA4" allowfullscreen="">
+![GIF](https://github.com/HongZH2/Graphics_P1/blob/master/Project_1_Hong_Zhang.gif)
 
 ## Description
 (1) Interaction
