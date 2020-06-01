@@ -1,6 +1,6 @@
 ## Summary
 the Project 1 code, pictures,video and Execute file.
-
+## You need OpenGL library first
 ## Programming Assignment 1
 ## Transformation and Heightmaps in 3D
 ## Name: Hong Zhang
