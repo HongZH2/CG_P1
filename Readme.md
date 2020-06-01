@@ -10,6 +10,11 @@ the Project 1 code, pictures,video and Execute file.
 ## Instructor: Prof. Yanxi Liu
 ## Programming Language: C++
 
+
+## Visualization
+
+
+
 ## Description
 (1) Interaction
 Due to the final submission, I have already achieve all the basic  required functions to make these boxes move and interact with Keyboard Inputs. When It starts, the boxes stay still. And If you   press U/J/I/K/O/L only, that will make the boxes rotate about their own center about X/Y/Z  axis. Besides, inputing Left_Shift+U/J/I/K/O will give the boxes a signal to scaling along X/Y/Z. Also It will work with Translating boxes along X/Y/Z axis, if inputing Left_Control + U/J/I/K/O/L.
